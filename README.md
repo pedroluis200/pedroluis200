@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Graduado de **Ingeniería Informática (2022)**. Me dedico a construir cosas que funcionan: **bots de Telegram**, **webs** y **herramientas** que resuelven problemas concretos, sobre todo en la automatización.
+Graduado de **Ingeniería Informática (2022)**. Me dedico a construir cosas que funcionan: **bots de Telegram**, **webs** y **herramientas** que resuelven problemas concretos, sobre todo en la automatización. También tengo conocimiento del mercado cripto y del desarrollo de aplicaciones cripto.
 
 - 🤖 Diseño bots de Telegram
 - 🌐 Desarrollo proyectos web ligeros y rápidos, pensados para móvil
@@ -43,6 +43,9 @@ Graduado de **Ingeniería Informática (2022)**. Me dedico a construir cosas que
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
@@ -55,6 +58,7 @@ Graduado de **Ingeniería Informática (2022)**. Me dedico a construir cosas que
 | 🤖 **Bots de Telegram** | Bots que automatizan tareas y atienden a los usuarios | En marcha |
 | 📊 **App de seguimiento de mercado** | Sigue precios, calcula rendimientos y avisa con alarmas | En marcha |
 | 🏋️ **App de ejercicio para gimnasios** | Planificación y seguimiento de entrenamientos | En planificación |
+| 🎓 **App de gestión de títulos universitarios** | Gestión y control de títulos universitarios | En planificación |
 
 <!-- Cuando subas cada proyecto a GitHub, enlaza el nombre así:
      **[Nombre](https://github.com/pedroluis200/NOMBRE_DEL_REPO)** -->
